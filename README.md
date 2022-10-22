@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrgrillish100
+- 👀 I’m interested in software development and web development
+- 🌱 I’m currently learning python programming language
+- 💞️ I’m looking to collaborate on software developers and website developers
+- 📫 How to reach me eshunferdinand30@gmail.com 
